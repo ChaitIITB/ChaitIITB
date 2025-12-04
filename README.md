@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm an **AI/ML Engineer** and **Computer Science student** at **IIT Bombay**, passionate about building intelligent systems that solve real-world problems. My journey spans from winning hackathons to implementing LLMs from scratch, with a focus on **Deep Learning**, **NLP**, and **AI Systems Architecture**.
+I'm an **AI/ML Enthusiast** and **student** at **IIT Bombay**, passionate about building intelligent systems that solve real-world problems. My journey spans from winning hackathons to implementing LLMs from scratch, with a focus on **Deep Learning**, **NLP**, and **AI Systems Architecture**.
 
 🏆 **HushhAI Personal Data Agents Hackathon Winner** | ₹1,00,000 Prize + Full-time Job Offer
 
